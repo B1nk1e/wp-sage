@@ -1,0 +1,25 @@
+# Application
+/wp-content/plugins/*
+/wp-content/mu-plugins/*
+
+# Plugin
+# !/wp-content/plugins/gravityforms
+
+# Env
+wp-config.php
+
+# Composer
+/vendor
+
+# Yarn
+/node_modules
+
+# Wordpress
+.htaccess
+
+# Logs
+*.log
+
+# OS generated files
+.DS_STORE
+.idea
